@@ -1,4 +1,8 @@
 This is about a.
 New change 1
 This is a new feature branch for A
-
+syntax error: corrected: very well corrected
+This is a change related to A
+change A
+yet another change A
+change AA
