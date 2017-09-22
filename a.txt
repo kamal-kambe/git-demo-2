@@ -6,5 +6,3 @@ This is a change related to A
 change A
 yet another change A
 change AA
-
-Some wrong code
